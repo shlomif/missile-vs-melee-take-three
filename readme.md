@@ -81,4 +81,7 @@ based on mine or not, then go for it.
 
 ----
 
+## Thanks
 
+[Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
+the final catalysts for writing this.
