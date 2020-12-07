@@ -20,6 +20,11 @@ A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) Shlomi Fish ( https://www.shlomifish.org/ ) 2020,
 but uses characters and concepts from proprietary franchises.
 
+## Dedication
+
+This story is dedicated to the memory of [Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) (1994-2016),
+a remarkable singer and youtuber, who was killed at age 22 by a fan who was obsessed with her, who almost immediately committed suicide himself.
+
 ## Reflections
 
-
+I think almost every young-at-heart lady (of almost
