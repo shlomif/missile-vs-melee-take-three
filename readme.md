@@ -31,8 +31,16 @@ a remarkable singer and youtuber, who was killed at age 22 by a fan who was obse
 
 ## Reflections
 
-I think almost every young-at-heart lady (of almost any age) can be the queen and with
-some hacking, also every young-at-heart gentleman (e.g: by replacing her with
+I think almost every young-at-heart lady (of almost any age) can be the queen and, after
+some amount of hacking, also every young-at-heart gentleman (e.g: by replacing her with
 [young Anakin Skywalker](https://starwars.fandom.com/wiki/Anakin_Skywalker)).
 
-That put aside, I'd love to see the queen played by
+That put aside, I'd love to see the queen played by [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord),
+who is a singer, songwriter and budding actress, who has testified to be
+shy in real-life and has a good girl image (while often being spectacularly bold and
+magnetic in her music videos) Play Queen Amidala her. I think she has a "badass asskicker"
+side to her personality (e.g [in this video](https://www.youtube.com/watch?v=3gxvMi6yekg)
+and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
+[kick ass non-violently and non-destructively](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) ).
+
+
