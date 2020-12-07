@@ -11,7 +11,7 @@ Eventually the lesser Jedis are all dead or wounded, and the Klingons rush towar
 
 The queen's face becomes tense and focused, she pulls two small crossbows from her waist, looks to her right, aims, and shoots an arrow at the Klingon warrior's neck; then she turns her head to the left, aims and shoots. The two Klingons warriors are hit by arrows in their neck, grab them with both hands, fall to their knees and bleed to death falling on the floor.
 
-The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen hands them the crossbows to study and they inspect one crossbow each, discussing them with the queen.
+The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen smiles, hands them the crossbows to study and they examine one crossbow each, discussing them with the queen.
 
 A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
 
