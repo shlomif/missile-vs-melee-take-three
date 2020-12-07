@@ -17,8 +17,12 @@ A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-
 
 ## Licence
 
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) Shlomi Fish ( https://www.shlomifish.org/ ) 2020,
+![Shlomi Fish’s "EvilPHish" emblem (originally from userfriendly.org)](./evilphish-shlomif-emblem.png)
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) by Shlomi Fish ( https://www.shlomifish.org/ ) 2020,
 but uses characters and concepts from proprietary franchises.
+
+Share, enjoy, relicense, build derivatives or do whatever else you want, as long
+as you [provide attribution](https://www.shlomifish.org/meta/copyrights/#cc_by_intr).
 
 ## Dedication
 
@@ -27,4 +31,8 @@ a remarkable singer and youtuber, who was killed at age 22 by a fan who was obse
 
 ## Reflections
 
-I think almost every young-at-heart lady (of almost
+I think almost every young-at-heart lady (of almost any age) can be the queen and with
+some hacking, also every young-at-heart gentleman (e.g: by replacing her with
+[young Anakin Skywalker](https://starwars.fandom.com/wiki/Anakin_Skywalker)).
+
+That put aside, I'd love to see the queen played by
