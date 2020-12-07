@@ -1,6 +1,9 @@
 
+
 This is an idea for a next logical evolution of
 [David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
+
+## The Story
 
 [Queen Padmé Amidala](https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala) (Star Wars Ep. 1) is in a corridor with the young [Obi-Wan Kenobi](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi) and his jedi mentor ( [Qui-Gon Jinn](https://en.wikipedia.org/wiki/Qui-Gon_Jinn) ) guarding her with light sabers. On the ends there are two armored but unarmed [Klingon](https://memory-alpha.fandom.com/wiki/Klingon) (Star Trek) warriors who fight against a metric ton of "throwaway" lightsabered jedi warriors who rush from the middle to try to take the malevolent Klingons out of the equation somehow. The Klingons have immense strength, agility and use basic and advanced martial arts tactics: kicking the jedis in the crotch; poking their eyes out, stabbing them with their own lightsabers, pushing them onto each other's laser swords in cascade, etc.
 
@@ -11,8 +14,6 @@ The queen's face becomes tense and focused, she pulls two small crossbows from h
 The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen hands them the crossbows to study and they inspect one crossbow each, discussing them with the queen.
 
 A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
-
-»
 
 ## Licence
 
