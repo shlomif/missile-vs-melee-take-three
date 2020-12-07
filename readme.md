@@ -1,7 +1,6 @@
-«
 
-I have a nice idea for a next logical evolution of
-[David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
+This is an idea for a next logical evolution of
+[David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
 
 [Queen Padmé Amidala](https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala) (Star Wars Ep. 1) is in a corridor with the young [Obi-Wan Kenobi](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi) and his jedi mentor ( [Qui-Gon Jinn](https://en.wikipedia.org/wiki/Qui-Gon_Jinn) ) guarding her with light sabers. On the ends there are two armored but unarmed [Klingon](https://memory-alpha.fandom.com/wiki/Klingon) (Star Trek) warriors who fight against a metric ton of "throwaway" lightsabered jedi warriors who rush from the middle to try to take the malevolent Klingons out of the equation somehow. The Klingons have immense strength, agility and use basic and advanced martial arts tactics: kicking the jedis in the crotch; poking their eyes out, stabbing them with their own lightsabers, pushing them onto each other's laser swords in cascade, etc.
 
@@ -23,6 +22,8 @@ but uses characters and concepts from proprietary franchises.
 
 Share, enjoy, relicense, build derivatives or do whatever else you want, as long
 as you [provide attribution](https://www.shlomifish.org/meta/copyrights/#cc_by_intr).
+
+The original sources can be found on a [GitHub git repository](https://github.com/shlomif/missile-vs-melee-take-three).
 
 ## Dedication
 
@@ -62,5 +63,21 @@ I decided to use crossbows instead of [Star Wars' laser blasters](https://starwa
 ranged weapons for the extra "back-to-basics" effect. An online friend agreed that it is a good idea, but
 your kilometrage may vary.
 
+----
+
+This is likely not going to be the final word in the missile-vs-melee theme. You
+can read my interpretation of the significance of the original tale in
+[a section of an essay](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml).
+
+----
+
+If you believe I should not have used elements from 3rd party franchises,
+or that I should have only used elements from the [Jewish "Torah"](https://en.wikipedia.org/wiki/Torah)
+, I advise you to read and follow the links from my
+["make your own kind of music"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/make-your-own-kind-of-music.xhtml)
+mini essay. That put aside, if you think you can make better music, either
+based on mine or not, then go for it.
+
+----
 
 
