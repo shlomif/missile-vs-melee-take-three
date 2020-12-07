@@ -9,7 +9,7 @@ Eventually the lesser Jedis are all dead or wounded, and the Klingons rush towar
 
 The queen's face becomes tense and focused, she pulls two small crossbows from her waist, looks to her right, aims, and shoots an arrow at the Klingon warrior's neck; then she turns her head to the left, aims and shoots. The two Klingons warriors are hit by arrows in their neck, grab them with both hands, fall to their knees and bleed to death falling on the floor.
 
-The two Jedis protagonists are relieved, disable their lightsabers' laser blades, high five and huggle the queen. The queen hands them the crossbows to study and they inspect one crossbow each, discussing them with the queen.
+The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen hands them the crossbows to study and they inspect one crossbow each, discussing them with the queen.
 
 A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
 
@@ -43,4 +43,18 @@ side to her personality (e.g [in this video](https://www.youtube.com/watch?v=3gx
 and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
 [kick ass non-violently and non-destructively](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) ).
 
+----
+
+A friend noted that some people may be angry by mixing up Star Wars and Star Trek,
+but he was amused. If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
+
+----
+
+The ironic thing about the story is that any of the expendable jedis could
+have thrown his lightsaber like a spear at the klingon's necks. I'm planning
+to use this fact at a self-rebuttal in which Amidala handles the situation
+using [Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
+benevolent psychological warfare without any bloodshed.
+
+----
 
