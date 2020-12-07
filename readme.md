@@ -51,10 +51,16 @@ but he was amused. If you want to be even angrier, see [this image macro](https:
 ----
 
 The ironic thing about the story is that any of the expendable jedis could
-have thrown his lightsaber like a spear at the klingon's necks. I'm planning
+have thrown his lightsaber like a spear at his respective klingon's necks. I'm planning
 to use this fact at a self-rebuttal in which Amidala handles the situation
 using [Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
 benevolent psychological warfare without any bloodshed.
 
 ----
+
+I decided to use crossbows instead of [Star Wars' laser blasters](https://starwars.fandom.com/wiki/Blaster/Legends) for the
+ranged weapons for the extra "back-to-basics" effect. An online friend agreed that it is a good idea, but
+your kilometrage may vary.
+
+
 
