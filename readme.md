@@ -121,7 +121,11 @@ Judging by duckduckgo reddit searches, there has been an unwritten taboo against
 Wars crossovers. [Fuck that!](https://www.youtube.com/watch?v=ROZjaxT_0Hw). Why can't we have both?
 😉.
 
-## Thanks
+## Thanks and Credits
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
 the final catalysts for writing this.
+
+[jeffreyw's original "Mmm...Tacos" photo](https://www.flickr.com/photos/7927684@N03/6306095903)
+- under CC-by 2.0. Thanks!
+
