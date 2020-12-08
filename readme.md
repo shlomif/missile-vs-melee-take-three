@@ -24,13 +24,14 @@ A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-
 ### Note:
 
 PersonalQrossBow is not a real firm as far as we know, and while being a fan of some tacos, I
-have not tried the ones in the original commercial. Nevertheless, I respect and admire their good marketing,
+have not tried the ones in the original commercial, nor did I receive money from
+Old El Paso. Nevertheless, I respect and admire their good marketing,
 and believe that marketing has been unnecessarily demonised, as it is essential for the success of
 your "product" (for lack of a better word) or digital work. Hearing about the meme has
 proven a catalyst for writing this story.
 
 In addition, I hereby request [Old El Paso](https://www.oldelpaso.com/) to not sue me,
-and if they wish to compensate me for the free publicity to donate instead to any
+and if they wish to compensate me for the free publicity, to donate instead to any
 one or more of:
 
 1. [Organization for Transformative Works](https://www.transformativeworks.org/)
@@ -40,6 +41,9 @@ one or more of:
 5. [The Israeli Science Fiction and Fantasy NPO](https://www.sf-f.org.il/en/)
 6. [Hamakor - The Israeli FOSS NPO](https://www.hamakor.org.il/)
 7. Any of the non-commercial [FOSS operating systems](https://en.wikipedia.org/wiki/Free_and_open-source_software) .
+
+Other people and organizations are welcome to pay me directly using either PayPal
+or [SWIFT](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication).
 
 ## Licence
 
