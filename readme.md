@@ -115,6 +115,12 @@ we planned or desired them or were careless, hubrisful, or foolish. One of
 [my factoids](https://www.shlomifish.org/humour/bits/facts/) reads
 <q>Chuck Norris round house kicks doors open instead of using their keys. Summer Glau makes sure doors are open using her mind.</q>.
 
+----
+
+Judging by duckduckgo reddit searches, there has been an unwritten taboo against Star Trek and Star
+Wars crossovers. [Fuck that!](https://www.youtube.com/watch?v=ROZjaxT_0Hw). Why can't we have both?
+😉.
+
 ## Thanks
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
