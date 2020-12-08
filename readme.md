@@ -9,11 +9,23 @@ This is an idea for a next logical evolution of
 
 Eventually the lesser Jedis are all dead or wounded, and the Klingons rush towards the trio screaming battle cries. The queen looks startled and frightened while Obi-Wan and Qui-Gon are trying to prepare tensly and without much hope to win.
 
-The queen's face becomes tense and focused, she pulls two small crossbows from her waist, looks to her right, aims, and shoots an arrow at the Klingon warrior's neck; then she turns her head to the left, aims and shoots. The two Klingons warriors are hit by arrows in their neck, grab them with both hands, fall to their knees and bleed to death falling on the floor.
+The queen's face becomes tense and focused, she pulls two small crossbows from
+her waist, looks to her right, aims, and shoots an arrow at the Klingon
+warrior's neck; then she turns her head to the left, aims and shoots. The
+crossbows' arrows pass through the two Klingons' warriors foreheads, who
+quickly faint and fall forward, dead.
 
 The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen smiles, hands them the crossbows to study and they examine one crossbow each, discussing them with the queen.
 
 A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
+
+### Note:
+
+PersonalQrossBow is not a real firm as far as we know, and while being a fan of some tacos, I
+have not tried the ones in the original commercial. Nevertheless, I respect and admire their good marketing,
+and believe that marketing has been unnecessarily demonised, as it is essential for the success of
+your "product" (for lack of a better word) or digital work. Hearing about the meme has
+proven a catalyst for writing this story.
 
 ## Licence
 
