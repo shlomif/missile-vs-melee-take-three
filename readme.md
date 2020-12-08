@@ -5,7 +5,7 @@ This is an idea for a next logical evolution of
 
 ## The Story
 
-![Tacos by Jeffrey W](./6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp)
+<img align="right" src="./6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos photo by JeffreyW" />
 
 [Queen Padmé Amidala](https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala) (Star Wars Ep. 1) is in a corridor with the young [Obi-Wan Kenobi](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi) and his jedi mentor ( [Qui-Gon Jinn](https://en.wikipedia.org/wiki/Qui-Gon_Jinn) ) guarding her with light sabers. On the ends there are two armored but unarmed [Klingon](https://memory-alpha.fandom.com/wiki/Klingon) (Star Trek) warriors who fight against a metric ton of "throwaway" lightsabered jedi warriors who rush from the middle to try to take the malevolent Klingons out of the equation somehow. The Klingons have immense strength, agility and use basic and advanced martial arts tactics: kicking the jedis in the crotch; poking their eyes out, stabbing them with their own lightsabers, pushing them onto each other's laser swords in cascade, etc.
 
