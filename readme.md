@@ -1,4 +1,4 @@
-
+# Queen Amidala and the Klingon Warriors (David and Goliath modernisation)
 
 This is an idea for a next logical evolution of
 [David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
@@ -26,6 +26,18 @@ have not tried the ones in the original commercial. Nevertheless, I respect and 
 and believe that marketing has been unnecessarily demonised, as it is essential for the success of
 your "product" (for lack of a better word) or digital work. Hearing about the meme has
 proven a catalyst for writing this story.
+
+In addition, I hereby request [Old El Paso](https://www.oldelpaso.com/) to not sue me,
+and if they wish to compensate me for the free publicity to donate instead to any
+one or more of:
+
+1. [Organization for Transformative Works](https://www.transformativeworks.org/)
+2. [Creative Commons](https://creativecommons.org/)
+3. [Free (and open source) Software Foundation](https://www.fsf.org/)
+4. [The Electronic Frontier Foundation](https://www.eff.org/)
+5. [The Israeli Science Fiction and Fantasy NPO](https://www.sf-f.org.il/en/)
+6. [Hamakor - The Israeli FOSS NPO](https://www.hamakor.org.il/)
+7. Any of the non-commercial [FOSS operating systems](https://en.wikipedia.org/wiki/Free_and_open-source_software) .
 
 ## Licence
 
@@ -100,6 +112,7 @@ from the film [Kung Fu Panda (1)](https://en.wikipedia.org/wiki/Kung_Fu_Panda_%2
 we planned or desired them or were careless, hubrisful, or foolish. One of
 [my factoids](https://www.shlomifish.org/humour/bits/facts/) reads
 <q>Chuck Norris round house kicks doors open instead of using their keys. Summer Glau makes sure doors are open using her mind.</q>.
+
 ## Thanks
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
