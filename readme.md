@@ -93,6 +93,13 @@ based on mine or not, then go for it.
 
 ----
 
+I am well aware that the Indiana Jones Gun scene was motivated by an accident.
+However, to quote [Master Oogway](https://kungfupanda.fandom.com/wiki/Oogway)
+from the film [Kung Fu Panda (1)](https://en.wikipedia.org/wiki/Kung_Fu_Panda_%28film%29)
+(which I can recommend), "There are no accidents". Often they happen because
+we planned or desired them or were careless, hubrisful, or foolish. One of
+[my factoids](https://www.shlomifish.org/humour/bits/facts/) reads
+<q>Chuck Norris round house kicks doors open instead of using their keys. Summer Glau makes sure doors are open using her mind.</q>.
 ## Thanks
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
