@@ -7,7 +7,7 @@ This is an idea for a next logical evolution of
 
 <img align="right" src="./6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos photo by JeffreyW" />
 
-[Queen Padmé Amidala](https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala) (Star Wars Ep. 1) is in a corridor with the young [Obi-Wan Kenobi](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi) and his jedi mentor ( [Qui-Gon Jinn](https://en.wikipedia.org/wiki/Qui-Gon_Jinn) ) guarding her with light sabers. On the ends there are two armored but unarmed [Klingon](https://memory-alpha.fandom.com/wiki/Klingon) (Star Trek) warriors who fight against a metric ton of "throwaway" lightsabered jedi warriors who rush from the middle to try to take the malevolent Klingons out of the equation somehow. The Klingons have immense strength, agility and use basic and advanced martial arts tactics: kicking the jedis in the crotch; poking their eyes out, stabbing them with their own lightsabers, pushing them onto each other's laser swords in cascade, etc.
+[Queen Padmé Amidala](https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala) (Star Wars Ep. 1) is in a corridor with the young [Obi-Wan Kenobi](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi) and his jedi mentor ( [Qui-Gon Jinn](https://en.wikipedia.org/wiki/Qui-Gon_Jinn) ) guarding her with light sabers. On the ends there are two armored but unarmed [Klingon](https://memory-alpha.fandom.com/wiki/Klingon) (Star Trek) warriors who fight against a metric ton of "throwaway" lightsabered jedi warriors who rush from the middle to try to take the malevolent Klingons out of the equation somehow. The Klingons have immense strength, agility, and stamina, and use basic and advanced martial arts tactics: kicking the jedis in the crotch; poking their eyes out, stabbing them with their own lightsabers, pushing them onto each other's laser swords in cascade, etc.
 
 Eventually the lesser Jedis are all dead or wounded, and the Klingons rush towards the trio screaming battle cries. The queen looks startled and frightened while Obi-Wan and Qui-Gon are trying to prepare tensely and without much hope to win.
 
@@ -19,7 +19,9 @@ quickly faint and fall forward, dead.
 
 The two Jedis protagonists are relieved, laugh, disable their lightsabers' laser blades, high five and huggle the queen. The queen smiles, hands them the crossbows to study and they examine one crossbow each, discussing them with the queen.
 
-A tagline appears on the screen as a mock commercial: **PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
+A tagline appears on the screen as a mock commercial:
+
+**PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?** ( https://www.buzzfeed.com/alexlee/porque-no-los-dos )
 
 ### Note:
 
@@ -32,7 +34,7 @@ proven a catalyst for writing this story.
 
 In addition, I hereby request [Old El Paso](https://www.oldelpaso.com/) to not sue me,
 and if they wish to compensate me for the free publicity, to donate instead to any
-one or more of:
+one or more of the following organisations:
 
 1. [Organization for Transformative Works](https://www.transformativeworks.org/)
 2. [Creative Commons](https://creativecommons.org/)
@@ -79,7 +81,7 @@ and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
 ----
 
 A friend noted that some people may be angry by mixing up Star Wars and Star Trek,
-but he was amused. "But why can't we have both?". If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
+but he was amused. If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
 
 ----
 
