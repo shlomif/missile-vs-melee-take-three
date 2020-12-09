@@ -1,4 +1,4 @@
-# Queen Amidala and the Klingon Warriors (David and Goliath modernisation)
+# Queen Amidala vs. the Klingon Warriors (David and Goliath modernisation)
 
 This is an idea for a next logical evolution of
 [David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
@@ -13,7 +13,7 @@ Eventually the lesser Jedis are all dead or wounded, and the Klingons rush towar
 
 The queen's face becomes tense and focused, she pulls two small crossbows from
 her waist, looks to her right, aims, and shoots an arrow at the Klingon
-warrior's neck; then she turns her head to the left, aims and shoots. The
+warrior's forehead; then she turns her head to the left, aims and shoots. The
 crossbows' arrows pass through the two Klingons' warriors foreheads, who
 quickly faint and fall forward, dead.
 
@@ -40,7 +40,8 @@ one or more of:
 4. [The Electronic Frontier Foundation](https://www.eff.org/)
 5. [The Israeli Science Fiction and Fantasy NPO](https://www.sf-f.org.il/en/)
 6. [Hamakor - The Israeli FOSS NPO](https://www.hamakor.org.il/)
-7. Any of the non-commercial [FOSS operating systems](https://en.wikipedia.org/wiki/Free_and_open-source_software) .
+7. [Mozilla](https://www.mozilla.org/en-US/)
+8. Any of the non-commercial [FOSS operating systems](https://en.wikipedia.org/wiki/Free_and_open-source_software) .
 
 Other people and organizations are welcome to pay me directly using either PayPal
 or [SWIFT](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication).
@@ -78,7 +79,7 @@ and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
 ----
 
 A friend noted that some people may be angry by mixing up Star Wars and Star Trek,
-but he was amused. If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
+but he was amused. "But why can't we have both?". If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
 
 ----
 
@@ -90,15 +91,20 @@ benevolent psychological warfare without any bloodshed.
 
 ----
 
-I decided to use crossbows instead of [Star Wars' laser blasters](https://starwars.fandom.com/wiki/Blaster/Legends) for the
-ranged weapons for the extra "back-to-basics" effect. An online friend agreed that it is a good idea, but
-your kilometrage may vary.
+I decided to use crossbows instead of [Star Wars' laser
+blasters](https://starwars.fandom.com/wiki/Blaster/Legends) for the ranged
+weapons for the extra "back-to-basics" effect. An online friend agreed that it
+is a good idea, but your kilometrage may vary.
 
 ----
 
 This is likely not going to be the final word in the missile-vs-melee theme. You
 can read my interpretation of the significance of the original tale in
 [a section of an essay](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml).
+
+Now that I have the foreknowledge, reading [the original tale](https://www.sacred-texts.com/bib/tan/sa1017.htm)
+courtesy of [sacred-texts.com](https://www.sacred-texts.com/bib/tan/sa1017.htm) (in
+the original Biblical Hebrew) makes it read better.
 
 ----
 
