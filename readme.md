@@ -131,6 +131,13 @@ Judging by duckduckgo reddit searches, there has been an unwritten taboo against
 Wars crossovers. [Fuck that!](https://www.youtube.com/watch?v=ROZjaxT_0Hw). Why can't we have both?
 😉.
 
+----
+
+In my opinion, the David vs Goliath / etc. story is more about how being a hero
+implies hacking/rule bending, challenging your premises and keeping deciding to
+think. I play https://en.wikipedia.org/wiki/The_Game_(mind_game) to lose, and I
+lost it again now! You don't have to announce (tweet/etc.) every loss though.
+
 ## Thanks and Credits
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
@@ -139,3 +146,6 @@ the final catalysts for writing this.
 [jeffreyw's original "Mmm...Tacos" photo](https://www.flickr.com/photos/7927684@N03/6306095903)
 - under CC-by 2.0. Thanks!
 
+## Coverage
+
+* [/r/startrek](https://www.reddit.com/r/startrek/comments/k92d0q/queen_amidala_and_the_klingon_warriors_a_short/)
