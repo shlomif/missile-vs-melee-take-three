@@ -76,7 +76,7 @@ shy in real-life and has a good girl image (while often being spectacularly bold
 magnetic in her music videos) play Queen Amidala here. I think she has a "badass asskicker"
 side to her personality (e.g [in this video](https://www.youtube.com/watch?v=3gxvMi6yekg)
 and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
-[kick ass non-violently and non-destructively](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) ).
+[kick ass non-violently and non-destructively](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/).
 
 ----
 
