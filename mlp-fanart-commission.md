@@ -4,8 +4,22 @@ This is an idea for a next logical evolution of
 [David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
 
 I wish to commission such a video and am willing to pay a reasonable amount of
-money for a CC-by licensed final video (.mp4, .webm or a different documented
-format).
+money for a CC-by licensed final video (in .mp4, .webm or a different documented
+format). If you charge by hour take your time estimate and multiply it
+by [Pi](https://en.wikipedia.org/wiki/Pi) (or somtimes 2*Pi from my
+experience, or round it down to 3 to 6) and multiply by your hourly rate.
+I can afford to pay roughly up to 3000 USD using PayPal (after a
+pre-agreement).
+
+You can use any assets you wish and make it either using ponies or humans
+or any other animals. Feel free to post it to your YouTube channel,
+or any other social media.
+
+I've picked [Fluttershy](https://mlp.fandom.com/wiki/Fluttershy) as Queen Amidala,
+because it seems out of her element.
+
+More info about the story, its origin and philosophy can be found
+[in its GitHub repository](https://github.com/shlomif/missile-vs-melee-take-three).
 
 ## The Story
 
@@ -68,82 +82,6 @@ The original sources can be found on a [GitHub git repository](https://github.co
 This story is dedicated to the memory of [Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) (1994-2016),
 a remarkable singer and youtuber, who was killed at age 22 by a fan who was obsessed with her, who almost immediately committed suicide himself.
 
-## Reflections
-
-I think almost every young-at-heart lady (of almost any age) can be the queen and, after
-some amount of hacking, also every young-at-heart gentleman (e.g: by replacing her with
-[young Anakin Skywalker](https://starwars.fandom.com/wiki/Anakin_Skywalker)).
-
-That put aside, I'd love to see the queen played by [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord),
-who is a singer, songwriter and budding actress, who has testified to be
-shy in real-life and has a good girl image (while often being spectacularly bold and
-magnetic in her music videos) play Queen Amidala here. I think she has a "badass asskicker"
-side to her personality (e.g [in this video](https://www.youtube.com/watch?v=3gxvMi6yekg)
-and [this one](https://www.youtube.com/watch?v=kihnB6M4Hzs)) and you can
-[kick ass non-violently and non-destructively](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) ).
-
-----
-
-A friend noted that some people may be angry by mixing up Star Wars and Star Trek,
-but he was amused. If you want to be even angrier, see [this image macro](https://absurdlynerdly.wordpress.com/2011/10/19/use-the-force-harry/).
-
-----
-
-The ironic thing about the story is that any of the expendable jedis could
-have thrown his lightsaber like a spear at his respective klingon's necks. I'm planning
-to use this fact at a self-rebuttal in which Amidala handles the situation
-using [Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
-benevolent psychological warfare without any bloodshed.
-
-----
-
-I decided to use crossbows instead of [Star Wars' laser
-blasters](https://starwars.fandom.com/wiki/Blaster/Legends) for the ranged
-weapons for the extra "back-to-basics" effect. An online friend agreed that it
-is a good idea, but your kilometrage may vary.
-
-----
-
-This is likely not going to be the final word in the missile-vs-melee theme. You
-can read my interpretation of the significance of the original tale in
-[a section of an essay](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml).
-
-Now that I have the foreknowledge, reading [the original tale](https://www.sacred-texts.com/bib/tan/sa1017.htm)
-courtesy of [sacred-texts.com](https://www.sacred-texts.com/bib/tan/sa1017.htm) (in
-the original Biblical Hebrew) makes it read better.
-
-----
-
-If you believe I should not have used elements from 3rd party franchises,
-or that I should have only used elements from the [Jewish "Torah"](https://en.wikipedia.org/wiki/Torah)
-, I advise you to read and follow the links from my
-["make your own kind of music"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/make-your-own-kind-of-music.xhtml)
-mini essay. That put aside, if you think you can make better music, either
-based on mine or not, then go for it.
-
-----
-
-I am well aware that the Indiana Jones Gun scene was motivated by an accident.
-However, to quote [Master Oogway](https://kungfupanda.fandom.com/wiki/Oogway)
-from the film [Kung Fu Panda (1)](https://en.wikipedia.org/wiki/Kung_Fu_Panda_%28film%29)
-(which I can recommend), "There are no accidents". Often they happen because
-we planned or desired them or were careless, hubrisful, or foolish. One of
-[my factoids](https://www.shlomifish.org/humour/bits/facts/) reads
-<q>Chuck Norris round house kicks doors open instead of using their keys. Summer Glau makes sure doors are open using her mind.</q>.
-
-----
-
-Judging by duckduckgo reddit searches, there has been an unwritten taboo against Star Trek and Star
-Wars crossovers. [Fuck that!](https://www.youtube.com/watch?v=ROZjaxT_0Hw). Why can't we have both?
-😉.
-
-----
-
-In my opinion, the David vs Goliath / etc. story is more about how being a hero
-implies hacking/rule bending, challenging your premises and keeping deciding to
-think. I play https://en.wikipedia.org/wiki/The_Game_(mind_game) to lose, and I
-lost it again now! You don't have to announce (tweet/etc.) every loss though.
-
 ## Thanks and Credits
 
 [Bandali](https://github.com/notbandali) for introducing me to the ["Porque no los dos" (= "Why can't we have both?")](https://www.buzzfeed.com/alexlee/porque-no-los-dos) meme, which was one of
@@ -151,7 +89,3 @@ the final catalysts for writing this.
 
 [jeffreyw's original "Mmm...Tacos" photo](https://www.flickr.com/photos/7927684@N03/6306095903)
 - under CC-by 2.0. Thanks!
-
-## Coverage
-
-* [/r/startrek](https://www.reddit.com/r/startrek/comments/k92d0q/queen_amidala_and_the_klingon_warriors_a_short/)
