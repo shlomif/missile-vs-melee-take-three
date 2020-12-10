@@ -1,4 +1,4 @@
-# Commission: Fluttershy as Queen Amidala - vs. the Klingon Warriors (David and Goliath modernisation)
+# Commission: Fluttershy as Queen Amidala of the Naboo - vs. the Klingon Warriors (David and Goliath modernisation)
 
 This is an idea for a next logical evolution of
 [David vs. Goliath](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml) / [Indiana Jones' gun vs. swordsman scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) / missile weapon vs. melee story structure.
