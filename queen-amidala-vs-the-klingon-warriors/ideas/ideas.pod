@@ -1,0 +1,215 @@
+=encoding utf8
+
+=head1 Buffy - a Few Good Slayers
+
+=head2 About
+
+I<Buffy: a Few Good Slayers> is a new piece of Buffy fanfiction set in a forked
+version of the Buffy universe, starting from the end of the third season of
+Buffy, while taking place many years later in 2014/2015 Sunnydale. The idea and
+concept were created by L<Shlomi Fish|http://www.shlomifish.org/>.
+
+=head2 What happened from 2000/2001
+
+L<Faith|http://buffy.wikia.com/wiki/Faith_Lehane> turned out to have been a
+good slayer after all, and prevented the mayor from ascending properly in
+the last minute. She joins forces with Buffy and the
+L<Scooby Gang|http://buffy.wikia.com/wiki/Scooby_Gang>, as an equal
+co-slayer.
+
+Faith starts dating L<Xander|http://buffy.wikia.com/wiki/Xander>, and they end
+up falling in love. Xander grows more confident, and after some training and
+some encouragement from Buffy and Faith becomes the world's first qualified
+B<male> slayer, paving the road for other male slayers.
+
+Faith and Xander marry after college, and have children. Buffy is able to cure
+L<Angel|http://buffy.wikia.com/wiki/Angel> out of his vampiredom, and he
+becomes a slayer, marries Buffy and they have children.
+
+L<Willow|http://buffy.wikia.com/wiki/Willow> cures Oz out of his
+werewolfness, becomes Dr. Willow Rosenberg, Ph.D., and one
+of the most powerful witches (or wizards) known on Earth. Oz becomes a superb
+wizard as well. he and Willow marry and have some children.
+
+L<Giles|http://buffy.wikia.com/wiki/Rupert_Giles> becomes the principal of
+Sunnydale high school where the whole gang is working as teachers, teaching
+next generations of budding slayers, witches/wizards, watchers, etc. making
+Sunnydale the Mecca of the slaying world.
+
+L<https://en.wikipedia.org/wiki/Cordelia_Chase> moves out of Sunnydale, becomes
+a scholar (Ph.D. + Professor), marries, has children, and mostly stays out of
+the way of slaying. She remains friends with the gang and comes to visit
+sometimes.
+
+=head2 Theme
+
+The show focuses on the following:
+
+=head3 The Scooby Gang
+
+At their early-to-mid-to-late-30s, Buffy, Faith, Xander, Willow, etc. have to
+juggle between various priorities:
+
+=over 4
+
+=item * Their responsibilities as parents.
+
+=item * Their responsibilities as spouses.
+
+=item * Their responsibilities as teachers.
+
+=item * The increasing culture gap between them and their students.
+
+=item * Making sure that Sunnydale, and the world at large, remain safe of demonic activity and oblivious to it.
+
+=item * Their mid-life crisis and their nostalgia to the 90s when they grew up.
+
+=back
+
+=head3 The High School Seniors
+
+=head3 The High School Sophomores
+
+=head4 Rebecca “Becky” Shepherd
+
+One of the protagonists is a high school freshman wannabe-slayer called Rebecca
+(or “Becky” for short) who is a Maternal Jewess and being a JAP (=
+Jewish American Princess) is part of her image.
+
+The tagline surrounding her is "You've got a lot of potential."
+
+Heh, it's kind-of-like an in-your-face ironic jab.
+
+Mel Brooks also did some stuff on it.
+
+She's not really a JAP.
+
+And certainly isn't when the film ends and she saves the day several times.
+
+=head2 NOTES
+
+    * The vampire who duplicates himself.
+    ** "I was a mad scientist, but I was angry, they called me the angry
+    scientist."
+    ** Operation "cat-in-the-sack".
+    ** Hebrew equivalent to http://en.wikipedia.org/wiki/Pig_in_a_poke
+    * Buffy, Faith, and Willow discuss getting a dog.
+    ** "I'm a cat person".
+    ** "Ceiling cat is watching your dog pee"
+    ** "My friend got a dog and guys keep hitting on/approaching her".
+    *** "A slut?"
+    *** More like polyamorous.
+    *** Experimenting.
+    *** She's only 25.
+    ** "her".
+    *** "A slut?"
+    *** More like polyamorous.
+    *** Experimenting.
+    *** She's only 25.
+    ** Glad we also know many single people and not structure our whole lives
+    around our children.
+
+    * Buffy factoids - L<http://www.shlomifish.org/humour/bits/facts/Buffy/>
+    ** Not really true.
+    ** Buffy: "I fought against Chuck Norris shortly after high school graduation and lost."
+    ** Buffy is looking for an old book about cooking in the library.
+    ** Becky finds the recipe using her Net-wisdom.
+    ** Buffy: "Wow! You have so much potential! I think you'll make a wonderful slayer."
+
+    * Cliff fought against Chuck Norris recently and won in two out of three rounds.
+    ** Chuck Norris told him "You're not a loser if you keep fighting and losing manybattles. You're a bigger loser if you stop."
+    ** He also fought against Summer Glau once and won all rounds.
+    *** "She's pretty good, but loses many fights."
+
+    * Becky enjoys Cliff calling her "brony girl".
+
+    * Chankey saying he read
+    L<https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea> and then knew better than to not seize opportunities because he's an Indian or whatever.
+    ** He's a chick magnet at Sunnydale High School and enjoys it.
+    ** What is with girls and Indian men?
+    ** Becky saying a big and unathletic-looking Jewish divorced woman in Israel
+    told her many Jewish married men offered to have an affair with her.
+    ** Even some men can see beyond one's unaesthetical look.
+
+    * Sarah Michelle Gellar (from the L<Selinaverse,http://buffyfanfiction.wikia.com/wiki/Selinaverse>) gets summoned as a kindred
+    (from the Selinaverse) spirit.
+    * - Willow: Buffy?
+      - SMG: That's not my name, my.. oh wait! No I'm actually Sarah Michelle Perez,
+      but everyone knows me as Sarah Michelle Gellar.
+      - Willow and Giles: Who?
+      - SMG: oh great! A world where I wasn't born.
+        Let's get to business. [Uses her mobile] General, your men can come now.
+      [ Lots of sounds of Jeeps, Helicopeters and infantry soldiers crying "Hail, Buffy!" ].
+
+    * Helicopter soldier: "We gave them a fair match."
+    * Buffy looking at the match which looks awful: "Who says it's fair?".
+    * (Last Action Hero / Hamlet scene reference.)
+
+=head2 Etymology of the Characters’ names
+
+=head3 Rebecca "Becky" Shepherd
+
+The Rebecca is a reference to several Rebeccas I have known including:
+
+=over 4
+
+=item * My late grandmother Rivkah Halperin-Fish
+
+=item * Rebecca "Rebec" who is a health information worker and a geek.
+
+=item * An American student who studied Medieval Near Eastern history in TAU.ac.il
+
+Called "Becka" or "Beck":
+
+L<http://mail.perl.org.il/pipermail/perl/2005-December/007560.html>
+
+=item * Becky Alcorn from perlmeme.org
+
+=back
+
+I also wish to call my future daughter (if and when I have one) that.
+
+Shepherd is a reference to L<https://en.wikipedia.org/wiki/Ashton_Shepherd>
+who is a wonderful Country singer.
+
+=head3 Chankey Rajeesh
+
+Chankey is a tribute to
+L<http://stackoverflow.com/users/257635/chankey-pathak> with whom I have been
+enjoying talking with. Rajeesh is a common Indian family name.
+
+=head3 Cliff Farrel
+
+"Cliff" may be a reference to the cat L<Clifford> or to L<Cliff>-notes.
+
+L<Farrel> is a tribute to
+L<https://en.wikipedia.org/wiki/Terry_Farrell_%28actress%29> who played
+L<http://en.memory-alpha.org/wiki/Jadzia_Dax> on I<Star Trek: Deep Space 9>.
+
+=head3 Sarah Anne Eisenman
+
+“Sarah” is a reference to
+L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>.
+In the Beckyverse, Buffy believes that “Sarah” is the first name of her
+kindred spirit (who eventually turns out to be Gellar after all, only the
+one(s) from alternate realities), and it was part of the inspiration for
+the character name for the show I<Sarah the Vampire Slayer>.
+
+Anne was the middle name of L<http://buffy.wikia.com/wiki/Buffy_Summers> from
+the original show
+L<http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29>.
+
+L<Eisenman> is a reference to L<Tamar Eisenman|http://www.eisenwoman.com/> (
+L<Twitter|http://twitter.com/eisenwoman>,
+L<Facebook|http://www.facebook.com/tamareisenman>,
+L<YouTube|http://www.youtube.com/user/eisenwoman> ) a.k.a the “Eisenwoman” who
+is an Israeli singer I am partial to. This lastname was in part picked for
+its natural L<Ashkenazi Jewish|http://en.wikipedia.org/wiki/Ashkenazi_Jews>
+ring, and possibly its similarity to
+L<http://en.wikipedia.org/wiki/Natalie_Portman> ’s last name, who is the actress
+who both plays Sarah Anne Eisenman on the fictional show
+I<Sarah the Vampire Slayer>, and who, in the Beckyverse, was the Alpha Female
+of the L<Web 1.0|http://en.wikipedia.org/wiki/Web_1.0#.22Web_1.0.22> era (and
+somewhat later) instead of Sarah Michelle Gellar.
+
+=cut
