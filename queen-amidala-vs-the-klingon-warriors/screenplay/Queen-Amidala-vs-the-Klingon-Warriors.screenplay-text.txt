@@ -169,6 +169,36 @@ TODO: add still from toward the end of <a href="https://www.youtube.com/watch?v=
 
 Wayne: no "but"s, Gareth, dude.
 
++++: OK, enough about the Queen, who's the director? <a href="https://en.wikipedia.org/wiki/George_Lucas">George Lucas</a>?
+
+Garth: nah, he also ended up wanting too much. We ended up hiring Natalie Portman instead.
+
+[
+
+Natalie Portman is resentful and disappointed. Tiffany is smiling
+from <a href="https://en.wikipedia.org/wiki/Schadenfreude">Schadenfreude</a>.
+
+]
+
+Wayne: OK, not ideal but we can work with that.
+
++++: Anyway, you do realise that one of these "throwaway" jedi knights could have just
+hurl his lightsaber at the Klingon warrior throat like a spear, right?
+
+[ The 5 main actors and Natalie seem contemplative. ]
+
+Garth: ah… didn't think about it.
+
+Wayne: we can use that to our advantage. Let me tell you, plot programming
+could use some <a href="https://mlp.fandom.com/wiki/Applejack%27s_%22Day%22_Off">code review</a>
+too. You could have requested this on Internet forums before you started playing the game.
+
+Garth: dude, you're right.
+
+Wayne: let's rework the plot <a href="https://en.wikipedia.org/wiki/Pair_programming">together</a>.
+What you did is not too bad for a beginner and I believe in delegating responsibilty and decision-making,
+But we can do a better ethical hacking feature.
+
 </s>
 
 </s>
