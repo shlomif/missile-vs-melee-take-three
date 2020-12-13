@@ -7,8 +7,12 @@
 An illustrated screenplay crossing Star Wars Ep. I,
 the <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse">Selinaverse</a>,
 the real world online/offline life in 2010s/2020s, Wayne's World, etc.
-that aims to launch the Padmé-verse world, and more generally
-pave way for commercial crossover/RPF fanart, reverse copyright
+that aims to launch the "Queen Padmé Tales" web series (
+whose format is
+modelled loosely after <a href="https://en.wikipedia.org/wiki/Ox_Tales">Ox Tales</a>
+) starring Tiffany Alvord as Queen Padmé Amidala of the Naboo, and directed and costarring
+<a href="https://en.wikipedia.org/wiki/Natalie_Portman_filmography">Natalie Portman</a>.
+More ambitiously it aims to pave way for commercial crossover/RPF fanart, reverse copyright
 maximalism and convert Hollywood to the open/free/amateur model ( <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-cinema--copyright-cannibalism">Copyright Cannibalism</a> )
 
 ]
@@ -26,7 +30,8 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 The <b>Dedication</b>:
 
 This story is dedicated to the memory of <a href="https://en.wikipedia.org/wiki/Christina_Grimmie">Christina Grimmie (1994-2016)</a>,
-a remarkable singer and youtuber, who was killed at age 22 by a fan who was obsessed with her, who almost immediately committed suicide himself.
+a remarkable singer and youtuber, who was killed at age 22 by a fan who was
+obsessed with her, who almost immediately committed suicide himself.
 
 For what I consider her Magnus Opus see her original
 <a href="https://www.youtube.com/watch?v=kYX8sjIzjGw">"Feelin' Good" song</a>
@@ -46,7 +51,7 @@ your qualities (age, gender, country, city, ethnicity, religion, ideology,
 beliefs, wealth, image, personality, cultural tastes, etc.) and your works.
 
 You will likely "fail" to become the "next biggest thing", but even if you
-do, you can at least fail "in style" and inspire even <a href="https://he.wikipedia.org/wiki/%D7%9B%D7%9C_%D7%94%D7%9E%D7%A7%D7%99%D7%99%D7%9D_%D7%A0%D7%A4%D7%A9_%D7%90%D7%97%D7%AA">one person</a>.
+do, you can at least fail "in style" and inspire even just <a href="https://he.wikipedia.org/wiki/%D7%9B%D7%9C_%D7%94%D7%9E%D7%A7%D7%99%D7%99%D7%9D_%D7%A0%D7%A4%D7%A9_%D7%90%D7%97%D7%AA">one person</a>.
 
 Always remember: you are awesome. You can become more awesome, regardless
 of any "IQ" myths. But you can one day <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer_glau_presents__the_talk__amateur_fighters">"lose"</a> to someone less qualified than you.
@@ -64,7 +69,9 @@ when writing Python code) and different people like different things.
 
 »
 
-".
+(Also see <a href="https://www.poetryfoundation.org/poems/46473/if---">If—</a> by Rudyard
+Kipling which has a similar message, and is the most favourite poem among
+British citizens, a favourite among Israelis, Ayn Rand’ favourite, and mine.)
 
 ]
 
@@ -80,7 +87,7 @@ The <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Queen Padmé A
 (Star Wars Ep. 1, played by <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a>) is in a corridor with the young
 <a href="https://starwars.fandom.com/wiki/Obi-Wan_Kenobi">Obi-Wan Kenobi</a>
 and his jedi mentor ( <a href="https://en.wikipedia.org/wiki/Qui-Gon_Jinn">Qui-Gon Jinn</a> ) guarding
-her with light sabers. On the ends there are two armored but unarmed <a href="https://memory-alpha.fandom.com/wiki/Klingon">Klingon</a>
+her with light sabers. On the ends there are two armored but unarmed <a href="https://memory-alpha.fandom.com/wiki/Klingon">Klingons</a>
 (Star Trek) : <a href="https://memory-alpha.fandom.com/wiki/Worf">Worf</a> and <a href="https://memory-alpha.fandom.com/wiki/Gowron">Gowron</a>
 warriors who fight against a metric ton of &quot;throwaway&quot; lightsabered
 jedi warriors who rush from the middle to try to take the malevolent Klingons
@@ -116,7 +123,7 @@ Natalie Portman's voice from behind: and — cut! Great job everyone!
 [
 
 The actors of Worf and Gowron rise from their place. Tiffany Alvord
-is smiling relieved and shakes hands the of the 4 male actors
+is smiling relieved and shakes the hands of the 4 male actors
 and hugs them compassionately. Natalie Portman (= the director)
 does the same.
 
@@ -152,7 +159,7 @@ Tiffany Alvord, man!
 
 [ Tiffany looks angry, crosses her hands and glances at Natalie with disapproval. ]
 
-Wayne: Dude, are you freaking kidding me? She's like <a href="https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html#venting_is_us">the Fluttershy of youtube musicians</a>. Do you see Fluttershy using a machine gun?
+Wayne: Dude, are you freaking kidding me? She's like <a href="https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html#venting_is_us">the Fluttershy of youtube musicians</a>. Do you see <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> using a machine gun?
 
 [ Fluttershy is seen flying, using a machine gun to shot at a terrified <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a> who
 just robbed a bank, and trying to shoot back at Fluttershy using a smaller one hand gun. As she leaves the frame, Fluttershy stops and winks at the camera. ]
@@ -209,7 +216,7 @@ Natalie: sorry, everybody… [looks at Fluttershy and Rainbow Dash] and everypon
 
 Rainbow Dash: No worries, Nat! We can make the scene at least 100% more awesome.
 
-Natalie: right, RD [she pats her head.]. OK, everyone, we need to wait for the plot
+Natalie: Right, RD [she pats her head.]. OK, everyone, we need to wait for the plot
 programmers to write the new version. We may still be able to use some material.
 In the meanwhile, get changed to normal clothes, go home, and I'll give you guys
 3 day notices on all the relevant electronic media. Sorry.
@@ -239,7 +246,7 @@ Natalie: What do you want to eat?
 Tiffany: I think I'll have some noodles.
 
 Natalie: I know a nice general café/restaurant just across the road, with
-a large selection of noodles. Probably not authentic, but good enough
+a large selection of noodles' dishes. Probably not authentic, but good enough
 for a westerner.
 
 +++: as for me, I think I ate too much at breakfast, so I think I'll have a juice or a soda
@@ -247,10 +254,10 @@ or both, heh.
 
 Tiffany: which ones?
 
-Natalie: I'll just go down the waiters' recommendations heh. Oh -
+Natalie: I'll just go down the waitors' recommendations heh. Oh -
 and <a href="https://en.wikipedia.org/wiki/Latke">Latkes</a>.
 
-Tiffany: oh, I want some too…
+Tiffany: oh, I want some Latkes too…
 
 [
 
@@ -259,6 +266,11 @@ They leave the frame.
 Fade to black.
 
 Message on the screen: "To be continued… Be a hero."
+
+Finally, note that I am offering up to 3,000 USD for
+a video version of the first <a href="https://www.reddit.com/r/mylittlepony/comments/kaajb9/commission_fluttershy_as_queen_amidala_of_the/">stanza</a>
+which can be either animated or live action, and whose quality I
+am happy with.
 
 ]
 
