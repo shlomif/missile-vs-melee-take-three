@@ -204,7 +204,7 @@ from <a href="https://en.wikipedia.org/wiki/Schadenfreude">Schadenfreude</a>.
 
 Wayne: OK, not ideal but we can work with that.
 
-+++: Anyway, you do realise that one of these "throwaway" jedi knights could have just
++++: Anyway, you do realise that one of these "throwaway" jedi knights could just
 hurl his lightsaber at the Klingon warrior throat like a spear, right?
 
 [ The 5 main actors and Natalie seem contemplative. ]
@@ -215,11 +215,11 @@ Wayne: we can use that to our advantage. Let me tell you, plot programming
 could use some <a href="https://mlp.fandom.com/wiki/Applejack%27s_%22Day%22_Off">code review</a>
 too. You could have requested this on Internet forums before you started playing DwarfFortress.
 
-Garth: dude, you're right.
+Garth: dude, you're right!
 
 Wayne: let's rework the plot <a href="https://en.wikipedia.org/wiki/Pair_programming">together</a>.
 What you did is not too bad for a beginner and I believe in delegating responsibilty and decision-making,
-But we can do a better ethical hacking feature.
+But we can do a better ethical hacking film.
 
 </s>
 
@@ -231,9 +231,11 @@ Natalie: sorry, everybody… [looks at Fluttershy and Rainbow Dash] and everypon
 
 Rainbow Dash: No worries, Nat! We can make the scene at least 100% more awesome.
 
-Natalie: Right, RD [she pats her head.]. OK, everyone, we need to wait for the plot
-programmers to write the new version. We may still be able to use some material.
-In the meanwhile, get changed to normal clothes, go home, and I'll give you guys
+Natalie: Right, Rainbow Dash [she pats her head.]. OK, everyone, we need to wait for the plot
+programmers to write the new version. We may still be able to reuse some of the
+filmed material, but probably we're going to have a lot of work to do.
+
++++: In the meanwhile, get changed to normal clothes, go home, and I'll give you guys
 3 day notices on all the relevant electronic media. Sorry.
 
 +++: Oh, and happy Hanukkah!
