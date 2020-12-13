@@ -71,7 +71,7 @@ when writing Python code) and different people like different things.
 
 (Also see <a href="https://www.poetryfoundation.org/poems/46473/if---">If—</a> by Rudyard
 Kipling which has a similar message, and is the most favourite poem among
-British citizens, a favourite among Israelis, Ayn Rand’ favourite, and mine.)
+British citizens, a favourite among Israelis, was Ayn Rand’ favourite, and mine.)
 
 ]
 
