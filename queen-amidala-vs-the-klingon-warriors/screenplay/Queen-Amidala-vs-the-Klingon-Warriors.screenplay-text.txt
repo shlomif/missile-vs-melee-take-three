@@ -26,8 +26,9 @@ maximalism and convert Hollywood and the film industry at large to the open/free
 
 We may not succeed, but at least we're going to try.
 
-This screenplay <b>is not</b> written in the Hollywood blessed format because good
-hackers (= resourceful and rule bending heroes)
+This screenplay <b>is not</b> written in the Hollywood blessed format because
+<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">good
+hackers (= resourceful and rule bending heroes)</a>
 which include the talented actors and actresses in this film can
 withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
 do not have the time to massage a screenplay into Hollywood's whimsical
@@ -80,7 +81,7 @@ You will likely "fail" to become the "next biggest thing", but even if you
 do, you can at least fail "in style" and inspire or help even just <a href="https://he.wikipedia.org/wiki/%D7%9B%D7%9C_%D7%94%D7%9E%D7%A7%D7%99%D7%99%D7%9D_%D7%A0%D7%A4%D7%A9_%D7%90%D7%97%D7%AA">one person</a>.
 
 Always remember: you are awesome. You can become more awesome, regardless
-of any "IQ" myths. But you can one day <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer_glau_presents__the_talk__amateur_fighters">"lose"</a> to someone less qualified than you.
+of any "IQ" myths. But you may one day <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer_glau_presents__the_talk__amateur_fighters">"lose"</a> to someone less qualified than you.
 That's OK - <a href="https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/ongoing-text.html#becky_in_the_library__chit_chat">you can learn from a lost fight</a> and make
 <a href="https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/#actors_are_unique">a comeback</a>.
 Frankly, heroes do not die ("reputationally" at least) - they accumulate.
@@ -91,7 +92,7 @@ the box, challenge the invisible rules, "hack" something, or even temporarily
 or permanently give
 up. <a href="https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it">There's more than one way to do it</a>
 (even <a href="https://brilliant.org/wiki/proofs-of-the-pythagorean-theorem/">in maths</a> and
-when writing Python code) and different people like different things.
+when writing <a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29">Python</a> code) and different people like different things.
 
 »
 
@@ -210,7 +211,7 @@ TODO: add still from toward the end of <a href="https://www.youtube.com/watch?v=
 
 Wayne: no "but"s, Gareth, dude.
 
-+++: OK, enough about the Queen, who's the director? Is it going to ne <a href="https://en.wikipedia.org/wiki/George_Lucas">George Lucas</a>?
++++: OK, enough about the Queen, who's the director? Is it going to be <a href="https://en.wikipedia.org/wiki/George_Lucas">George Lucas</a>?
 
 Garth: nah, he also ended up wanting too much. We ended up hiring Natalie Portman instead.
 
@@ -246,7 +247,7 @@ But we can do a better ethical hacking film.
 
 [ All the film personnel in the filming room sigh and shake their head. ]
 
-Natalie: sorry, everybody… [looks at Fluttershy and Rainbow Dash] and everypony.
+Natalie: sorry, everybody… [looks at Fluttershy and Rainbow Dash who float in mid-air peacefully] and everypony.
 
 Rainbow Dash: No worries, Nat! We can make the scene at least 100% more awesome.
 
@@ -306,6 +307,10 @@ Message on the screen: "To be continued… Be a hero."
 
 ]
 
+</s>
+
+<s id="unaccepted_version_finale" title="Finale">
+
 [
 
 Note that I am offering up to 3,000 USD for
@@ -317,10 +322,12 @@ am happy with.
 
 [
 
-Despite what the screenplay jokes, Alvord is my first choice to play
-the Selinaverse's Padmé, because she has much better Internet Read/Write web/
-web 2.0 presence than Portman, which is essential for the future screenplays.
-I wouldn't mind Lucas codirecting or coproducing this series in effect, but
+Despite what the screenplay jokes about, Alvord is my first choice to play
+the Selinaverse's Padmé, because she has much better Internet Read/Write
+web, <a href="http://www.paulgraham.com/web20.html">web 2.0</a> /
+<a href="https://en.wikipedia.org/wiki/Social-media">social media</a>
+presence than Portman, which is essential for the future screenplays.
+I wouldn't mind George Lucas codirecting or coproducing this series in effect, but
 Portman seems better somehow.
 
 ]
