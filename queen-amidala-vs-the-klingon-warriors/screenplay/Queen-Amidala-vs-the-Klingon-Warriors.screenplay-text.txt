@@ -24,6 +24,12 @@ maximalism and convert Hollywood and the film industry at large to the open/free
 
 We may not succeed, but at least we're going to try.
 
+This screenplay <b>is not</b> written in the Hollywood blessed format because good
+hackers (which include the talented actors and actresses in this film) can
+withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
+do not have the time to massage a screenplay into Hollywood's whimsical
+format only to be rejected, rinse and repeat.
+
 ]
 
 [
