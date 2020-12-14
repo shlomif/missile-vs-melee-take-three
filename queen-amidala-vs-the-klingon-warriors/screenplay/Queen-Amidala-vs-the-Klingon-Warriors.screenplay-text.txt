@@ -19,7 +19,7 @@ modelled loosely after <a href="https://en.wikipedia.org/wiki/Ox_Tales">Ox Tales
 <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Queen Padmé Amidala of the Naboo</a>, and which
 aims to be directed and costarred by
 <a href="https://en.wikipedia.org/wiki/Natalie_Portman_filmography">Natalie Portman</a>.
-More ambitiously it aims to pave way for commercial crossover/RPF fanart, help reverse copyright
+More ambitiously it aims to pave way for commercial crossover / <a href="https://en.wikipedia.org/wiki/Real_person_fiction">RPF</a> fanart, help reverse copyright
 maximalism and convert Hollywood and the film industry at large to the open/free/amateur model ( see <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-cinema--copyright-cannibalism">Copyright Cannibalism</a> ).
 
 We may not succeed, but at least we're going to try.
