@@ -2,6 +2,8 @@
 
 <s id="about" title="About this screenplay">
 
+<s id="objective" title="Objective">
+
 [
 
 An illustrated screenplay crossing <a href="https://en.wikipedia.org/wiki/Star_Wars%3A_Episode_I_%E2%80%93_The_Phantom_Menace">Star Wars Ep. I</a>,
@@ -33,6 +35,10 @@ format only to be rejected, rinse and repeat.
 
 ]
 
+</s>
+
+<s id="license" title="Licence">
+
 [
 
 This text is Copyright by Shlomi Fish, 2020 and is
@@ -40,6 +46,10 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 (or at your option - any later version).
 
 ]
+
+</s>
+
+<s id="dedication" title="Dedication">
 
 [
 
@@ -90,6 +100,8 @@ Kipling which has a similar message, and is the most favourite poem among
 British citizens, a favourite among Israelis, was Ayn Rand’ favourite, and mine.)
 
 ]
+
+</s>
 
 </s>
 
